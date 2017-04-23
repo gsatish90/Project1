@@ -1,0 +1,29 @@
+#include "\tokenizer\tokenizer.h"
+
+public:
+	#define
+	int main()
+	{
+		int i;
+		for(int i; k; l)
+		int j;
+		int k;
+		for(;;)
+		int l;
+		for(; ; )
+		if()
+		{
+		}
+	}	
+}/**/
+"\\\"\\"
+"\\"
+"\n \"\"\\"
+"hello\"\""
+'hello\"\"'
+"hello"
+<<
+<<<
+/=
+""
+'heelo\"\'l'

@@ -1,0 +1,70 @@
+//========Demonstrating semicolon ; ================
+"========Demonstrating semicolon ; ================"
+class Test{
+public :
+Test();
+~Test();
+void fun1();
+void fun2();
+private :
+int m1;
+string m2;
+};
+
+//========Demonstrating open and closed brackets {}  ================
+"========Demonstrating open and closed brackets {}  ================"
+
+class Test{
+while(1){
+if(a==b){
+cout<<"a equals b";
+}
+else{
+cout<<"a and b are not equal";
+}
+}
+};
+
+//========Demonstrating # with new line character================
+"========Demonstrating # with new line character================"
+#include <iostream>
+#include "TestExec.h"
+#define TABLE_SIZE 100
+
+//========Demonstrating colon presided by public,private or protected ================
+"========Demonstrating colon presided by public,private or protected================"
+
+class test : public ItokCollection{
+public:
+void example();
+}
+
+class test : public ItokCollection{
+private:
+void get();
+}
+
+class test : public ItokCollection{
+protected:
+void show();
+}
+
+//========Demonstrating for loop ================
+"========Demonstrating for loop================"
+
+void fun1(){
+for(int i=0;i< n ;i++){
+cout<<"Hello";
+}
+}
+
+for(int i=0;i< n ;i++){
+cout<<"Hello";
+}
+for(int i=0;i< n ;i++);
+if (token != "\n")
+continue;
+}
+for(;;){}
+for(;;);
+for(auto i : tokens)

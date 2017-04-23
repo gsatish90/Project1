@@ -1,0 +1,48 @@
+//========Demonstrating Alphanum ================
+#include <iostream>
+public:
+int main{
+int a = 20;
+}
+
+//========Demonstrating Punctuators ================
+.,;@$abc!\n&20%^~
+
+//========Demonstrating Special Characters ================
+(abc{def}ghi[jkl]mno)
+for(int i =0 ;i<10;i++);
+{}:=+-*\n&^%\n&^$#@
+t1.fun1();
+Test::fun2(){
+}	
+
+//========Demonstrating C style comments ================
+/* This
+is an example 
+of C style 
+comments */
+int a; /* Testing comment
+on same line*/
+
+//========Demonstrating C++ style comments ================
+//Simple comment
+bool flag = true; // Setting flag as true
+// Commenting whole line  int b = 15;
+std::cout<<i;
+
+//========Demonstrating Quotes ================
+"\n This is an \'example\' for you ";
+"\n This is an \"example\" for you "
+"\"abc\""
+"\\\\\"test\""
+"abc"
+"\\"
+"\\"
+'Test \"Hello\"'
+"\\abc"
+"hELLO"
+"\\"
+\n
+test = "";
+"\\\"\\"
+"\n\n\\"
